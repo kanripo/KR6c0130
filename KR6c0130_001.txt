@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:01.005752
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:29
 #+TITLE: 般若波羅蜜多心經
 #+PROPERTY: CBETA_ID T08n0253
 #+PROPERTY: ID KR6c0130
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 253
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0130_T_000-0849b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0130_T_001-0849b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.253[Nos.250-252,254,255,257]¶
-
- 《般若波羅蜜多心經》¶
+No. 253 [Nos. 250-252, 254, 255, 257]¶
+《般若波羅蜜多心經》¶
 ¶
 罽賓國三藏般若共利言等譯¶
 
